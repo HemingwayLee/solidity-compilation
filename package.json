@@ -1,0 +1,22 @@
+{
+  "name": "solidity-compilation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemingwayLee/solidity-compilation.git"
+  },
+  "author": "ywlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemingwayLee/solidity-compilation/issues"
+  },
+  "homepage": "https://github.com/HemingwayLee/solidity-compilation#readme",
+  "dependencies": {
+    "solc": "^0.8.12"
+  }
+}
