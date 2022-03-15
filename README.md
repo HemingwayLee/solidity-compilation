@@ -1,4 +1,5 @@
 # solidity-compilation
+The sample code of demonstrating how to compile ethereum smart contract solidity code
 
 ## Install solidity 
 ### Install solidity compiler in Mac using brew
@@ -32,7 +33,7 @@ node index.js
 ```
 
 
-## Why ETH using solidity
+## Why ETH using solidity for smart contract
 * Fit into EVM
 * Small
 * Security
